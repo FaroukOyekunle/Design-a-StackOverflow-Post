@@ -16,6 +16,7 @@ solutionPost.VoteUp();
 solutionPost.VoteUp();
 solutionPost.VoteUp();
 solutionPost.VoteUp();
+
 Console.WriteLine("BlogPost Should Have 8 Votes");
 
 solutionPost.PrintFullPost();
