@@ -4,7 +4,7 @@ using StackOverflow_Post;
 
 var solutionPost = new BlogPost();
 
-solutionPost.Title = "Adding a README.md file to a c# project in Visual Studio 2015";
+solutionPost.Title = "Adding a README.md filefor the first time to a c# project in Visual Studio 2022";
 solutionPost.Description = "Look in the top of the solution explorer for the option add hidden files. It should appear with dotted outline.\n If you wish to add it to the project you can right click and press \"add to project\"";
 solutionPost.CreatedTime = new DateTime(2022, 10, 12);
 
